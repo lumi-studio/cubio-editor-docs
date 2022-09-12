@@ -1,0 +1,10 @@
+[book]
+authors = ["Mivik"]
+language = "zh_CN"
+multilingual = false
+src = "src"
+title = "Cubio Editor 食用指南"
+
+[output.html]
+mathjax-support = true
+site-url = "/cubio-editor-docs/"
